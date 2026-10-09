@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Removed
+- 《数据合同》移出（intro/contract.md → quanttide-data 的 data/history）
+- 《制衣厂数据清洗》移出（processing/cleaning.md → quanttide-tech 的 data/brochure/qtdata/how.md）
+
 ## [0.1.0] - 2026-04-28
 
 ### Added
