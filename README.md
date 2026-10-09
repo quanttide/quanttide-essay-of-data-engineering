@@ -1,2 +1,1 @@
-# quanttide-essay-of-data-engineering
-量潮数据工程札记
+# 量潮科技工作论文
