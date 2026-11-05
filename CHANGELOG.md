@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- 《数据契约为何自建：现有方案的边界》成稿（spec/contract.md，基于同名口述草稿重梳逻辑）
 - 《从动态过程到静态结构：数据意图的形式化与工具选型》成稿（intent/index.md，基于同名口述草稿重梳逻辑）
 - 《蓝图》草稿迁入（spec/blueprint.md，来自 quanttide-data 的 data/context/eassy）
 - 《数据契约》草稿迁入（spec/contract.md，来自 quanttide-data 的 data/context/eassy）
