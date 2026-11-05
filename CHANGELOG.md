@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+### Added
+- 《蓝图》草稿迁入（spec/blueprint.md，来自 quanttide-data 的 data/context/eassy）
+- 《数据契约》草稿迁入（spec/contract.md，来自 quanttide-data 的 data/context/eassy）
+- 《意图》草稿迁入（intent/index.md，来自 quanttide-data 的 data/context/eassy）
+- 《数据目录》草稿迁入（impl/catalog.md，来自 quanttide-data 的 data/context/eassy）
+
 ### Removed
 - 《数据合同》移出（intro/contract.md → quanttide-data 的 data/history）
 - 《制衣厂数据清洗》移出（processing/cleaning.md → quanttide-tech 的 data/brochure/qtdata/how.md）
