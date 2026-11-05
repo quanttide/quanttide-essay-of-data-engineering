@@ -1,8 +1,9 @@
 # Changelog
 
-## [Unreleased]
+## [0.1.2] - 2026-11-05
 
 ### Changed
+- 目录名改用全拼：`intro/` → `introduction/`、`spec/` → `specification/`、`impl/` → `implementation/`，导读、论文索引与各篇参考文献同步
 - 总纲：增补「规模 vs 确定性」分歧定位与外部场景外推示例（4.5 节）
 - 《从写代码到设计处理步骤》：增补智能体行为通例的外部例证
 - 《从动态过程到静态结构》：4.2 节增补范畴论描述的最小示意
