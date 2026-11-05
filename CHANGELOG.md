@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [0.1.1] - 2026-11-05
 
 ### Added
 - 新增系列导读（index.md）与论文索引化 README
@@ -26,5 +26,6 @@
 ### Infrastructure
 - 初始化仓库，添加 README
 
-[Unreleased]: https://github.com/quanttide/quanttide-essay-of-data-engineering/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/quanttide/quanttide-essay-of-data-engineering/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/quanttide/quanttide-essay-of-data-engineering/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/quanttide/quanttide-essay-of-data-engineering/commits/v0.1.0
